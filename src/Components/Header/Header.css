@@ -1,0 +1,10 @@
+.heading {
+    text-align: center;
+    /* border: 1px solid grey; */
+    background-color: rgb(229, 239, 248);
+    padding-bottom: 5px;
+}
+
+.span {
+    color: green;
+}

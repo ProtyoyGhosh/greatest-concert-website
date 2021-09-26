@@ -1,0 +1,35 @@
+.main_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bands_container {
+    width: 80%;
+    margin-left: 40px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.cart_container {
+    width: 20%;
+    height: 200px;
+    margin-top: 60px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: rgb(243, 204, 152);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.cart_btn {
+    background-color: rgb(238, 181, 36);
+    border: 0;
+    border-radius: 4px;
+    line-height: 20px;
+    padding: 4px;
+    width: 90px;
+    cursor: pointer;
+    font-weight: 600;
+}

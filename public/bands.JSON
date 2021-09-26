@@ -1,0 +1,122 @@
+[
+  {
+    "id":100,
+    "name": "LRB",
+    "lead_singer": "Ayub Bachchu",
+    "country": "Bangladesh",
+    "img": "https://dailyasianage.com/library/1555363107_9.jpg",
+    "budget": 800000,
+    "ticket_price": 1000,
+    "members": 4
+  },
+  {
+    "id":200,
+    "name": "Queen",
+    "lead_singer": "Freddy Mercury",
+    "country": "USA",
+    "img": "https://ledgernote.com/wp-content/uploads/2020/05/queen.jpg",
+    "budget": 1471470,
+    "ticket_price": 5000,
+    "members": 4
+  },
+  {
+    "id":300,
+    "name": "Nirvana",
+    "lead_singer": "Kurt Cobain",
+    "country": "USA",
+    "img": "https://ledgernote.com/wp-content/uploads/2020/05/nirvana.jpg",
+    "budget": 5235230,
+    "ticket_price": 5000,
+    "members": 3
+  },
+  {
+    "id":400,
+    "name": "Pink Floyd",
+    "lead_singer": "David Gilmou",
+    "country": "England UK",
+    "img": "https://ledgernote.com/wp-content/uploads/2020/05/pink-floyd.jpg",
+    "budget": 1211201,
+    "ticket_price": 5500,
+    "members": 4
+  },
+  {
+    "id":500,
+    "name": "The Beatles",
+    "lead_singer": "Eric Clapton",
+    "country": "USA",
+    "img": "https://ledgernote.com/wp-content/uploads/2020/05/the-beatles.jpg",
+    "budget": 2792794,
+    "ticket_price": 8000,
+    "members": 4
+  },
+  {
+    "id":600,
+    "name": "AC/DC",
+    "lead_singer": "Phil Rudd‎",
+    "country": "Australia",
+    "img": "https://media.newyorker.com/photos/59095f7eebe912338a374b3a/master/w_2560%2Cc_limit/Michaud-ACDC.jpg",
+    "budget": 3361232,
+    "ticket_price": 4000,
+    "members": 5
+  },
+  {
+    "id":700,
+    "name": "Metallica",
+    "lead_singer": " James Hetfield",
+    "country": "USA",
+    "img": "https://www.rollingstone.com/wp-content/uploads/2016/03/metallica-master-of-puppets-at-30.jpg",
+    "budget": 987129,
+    "ticket_price": 4500,
+    "members": 4
+  },
+  {
+    "id":800,
+    "name": "Guns N Roses",
+    "lead_singer": "Axl Rose",
+    "country": "USA",
+    "img": "https://metalheadzone.com/wp-content/uploads/2018/08/guns-n-roses-2018-album-1200x900.jpg",
+    "budget": 654124,
+    "ticket_price": 7000,
+    "members": 5
+  },
+  {
+    "id":900,
+    "name": "Artcell",
+    "lead_singer": "George Lincoln D Costa",
+    "country": "Bangladesh",
+    "img": "https://img.discogs.com/wJdKgiQOxkkI8bkhtVddg-U-XXk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-2316103-1514032377-1218.jpeg.jpg",
+    "budget": 70000,
+    "ticket_price": 1000,
+    "members": 4
+  },
+  {
+    "id":1000,
+    "name": "Bhoomi",
+    "lead_singer": "Soumitra Ray",
+    "country": "India",
+    "img": "https://images.indianexpress.com/2016/10/bhoomi-band-480.jpg",
+    "budget": 20000,
+    "ticket_price": 500,
+    "members": 6
+  },
+  {
+    "id":1100,
+    "name": "Shironamhin",
+    "lead_singer": "Tazin Tuhin",
+    "country": "Banglsdesh",
+    "img": "https://media-eng.dhakatribune.com/uploads/2017/10/gggggggggggg.jpg",
+    "budget": 30000,
+    "ticket_price": 600,
+    "members": 5
+  },
+  {
+    "id":1200,
+    "name": "Chandrabindo ",
+    "lead_singer": "Anindya",
+    "country": "India",
+    "img": "https://lastfm.freetls.fastly.net/i/u/ar0/08d0032603b14630b56fa993eef39f65.jpg",
+    "budget": 15000,
+    "ticket_price": 400,
+    "members": 7
+  }
+]

@@ -1,0 +1,39 @@
+.bands_detail {
+    /* border: 1px solid red; */
+    text-align: center;
+    padding: 15px;
+}
+
+.inside_band {
+    /* border: 1px solid blue; */
+    background-color: antiquewhite;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    line-height: 10px;
+}
+
+/* .bands_detail :hover {
+    background-color: aquamarine;
+} */
+
+.inside_band img {
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.regular_btn {
+    background-color: goldenrod;
+    border: 0;
+    width: 150px;
+    line-height: 20px;
+    font-weight: 700;
+    border-radius: 4px;
+    padding: 2px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.regular_btn :hover {
+    background-color: rgb(172, 26, 26);
+}
