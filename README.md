@@ -1,8 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [concert website](https://protyoy-concert-web.netlify.app/).
+This is my website [concert website](https://protyoy-concert-web.netlify.app/).
 
-## Available Scripts
+## I created this website using HTML,CSS and react(JS)
+* Displaying all the top rated bands for a world concert
+* Creating different components for comfortable viewing
+  * You can see band's name,budget,ticket price and many more in the card
+  * You can also see the total price of the ticket added
 
 In the project directory, you can run:
 
