@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Creating a Concert website with Create React App
 
 This is my website [concert website](https://protyoy-concert-web.netlify.app/).
 
@@ -7,7 +7,7 @@ This is my website [concert website](https://protyoy-concert-web.netlify.app/).
 * Creating different components for comfortable viewing
   * You can see band's name,budget,ticket price and many more in the card
   * You can also see the total price of the ticket added
-
+## Support me if you like my work
 In the project directory, you can run:
 
 ### `npm start`
