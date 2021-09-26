@@ -1,8 +1,10 @@
+/* main container style */
 .main_container {
     display: flex;
     justify-content: space-between;
 }
 
+/* each band layout */
 .bands_container {
     width: 80%;
     margin-left: 40px;
@@ -10,19 +12,21 @@
     grid-template-columns: repeat(3, 1fr);
 }
 
+/* cart style */
 .cart_container {
     width: 20%;
-    height: 200px;
+    height: 100%;
     margin-top: 60px;
     text-align: center;
     position: sticky;
     top: 0;
     left: 0;
     background-color: rgb(243, 204, 152);
-    padding: 5px;
+    padding: 30px 5px;
     border-radius: 5px;
 }
 
+/* buy button style */
 .cart_btn {
     background-color: rgb(238, 181, 36);
     border: 0;

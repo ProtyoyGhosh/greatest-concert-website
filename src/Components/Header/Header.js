@@ -4,6 +4,7 @@ import './Header.css';
 const Header = () => {
     return (
         <header>
+            {/* header ui */}
             <div className='heading'>
                 <h1>Join The <span className='span'>Greatest</span> Concert On <span className='span'>Earth !!</span></h1>
                 <h2>Budget of this concert is 200 Million</h2>
