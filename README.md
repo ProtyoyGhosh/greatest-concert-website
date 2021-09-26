@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://protyoy-concert-web.netlify.app/).
+This project was bootstrapped with [concert website](https://protyoy-concert-web.netlify.app/).
 
 ## Available Scripts
 
